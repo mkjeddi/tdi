@@ -1,8 +1,8 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mkjeddi/tdi/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mkjeddi/tdi_milestone/master)
 # Solution to the milestone problem 
 Mehdi Karzar-Jeddi
-Day 4 pandas
-Day 5 plotting
+- Day 4 pandas
+- Day 5 plotting
 
 
 
